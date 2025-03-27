@@ -4,6 +4,20 @@
 
 ## Table of Contents
 
+# Directional Noise-Embedded Audio (DNEA)
+
+DNEA is an innovative technology designed to create personal sound zones where audio is audible to the intended listener while remaining inaudible to others. This repository covers DNEA's theoretical foundations, technical implementation, psychoacoustic aspects, applications, and future directions.
+
+## Table of Contents
+
+1. [Introduction: The Paradigm Shift in Audio Delivery](docs/Introduction/Chapter1.md)
+2. [Fundamentals of Acoustic Wave Manipulation](docs/Fundamentals/Chapter2.md)
+3. [DNEA Signal Processing and System Architecture](docs/SignalProcessing/Chapter3.md)
+4. [Psychoacoustics of DNEA](docs/Psychoacoustics/Chapter4.md)
+5. [Applications and Use Cases](docs/Applications/Chapter5.md)
+6. [Challenges and Future Directions](docs/Challenges/Chapter6.md)
+7. [Appendix](docs/Appendix/Chapter7.md)
+
 1. [Introduction: The Paradigm Shift in Audio Delivery](#introduction)
     - [1.1 The Limitations of Traditional Audio Technologies](#limitations-of-traditional-audio-technologies)
     - [1.2 The Genesis of DNEA: Addressing the Need for Controlled Sound](#genesis-of-dnea)
