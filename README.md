@@ -2,6 +2,12 @@
 
 # Directional Noise-Embedded Audio (DNEA): A Comprehensive Treatise
 
+
+
+# Directional Noise-Embedded Audio (DNEA)
+
+DNEA is an innovative technology designed to create personal sound zones where audio is audible to the intended listener while remaining inaudible to others. This repository covers DNEA's theoretical foundations, technical implementation, psychoacoustic aspects, applications, and future directions.
+
 ## Table of Contents
 
 # Directional Noise-Embedded Audio (DNEA)
@@ -9,6 +15,57 @@
 DNEA is an innovative technology designed to create personal sound zones where audio is audible to the intended listener while remaining inaudible to others. This repository covers DNEA's theoretical foundations, technical implementation, psychoacoustic aspects, applications, and future directions.
 
 ## Table of Contents
+
+1. [Introduction: The Paradigm Shift in Audio Delivery](#introduction-the-paradigm-shift-in-audio-delivery)
+    - [1.1 The Limitations of Traditional Audio Technologies](#11-the-limitations-of-traditional-audio-technologies)
+    - [1.2 The Genesis of DNEA: Addressing the Need for Controlled Sound](#12-the-genesis-of-dnea-addressing-the-need-for-controlled-sound)
+    - [1.3 Core Principles of DNEA: A High-Level Overview](#13-core-principles-of-dnea-a-high-level-overview)
+    - [1.4 Scope and Structure of this Document](#14-scope-and-structure-of-this-document)
+2. [Fundamentals of Acoustic Wave Manipulation](#fundamentals-of-acoustic-wave-manipulation)
+    - [2.1 Wave Propagation and Interference](#21-wave-propagation-and-interference)
+    - [2.2 Phased Array Theory](#22-phased-array-theory)
+    - [2.3 Beamforming Techniques](#23-beamforming-techniques)
+3. [DNEA Signal Processing and System Architecture](#dnea-signal-processing-and-system-architecture)
+    - [3.1 Noise Carrier Generation](#31-noise-carrier-generation)
+    - [3.2 Audio Embedding Techniques](#32-audio-embedding-techniques)
+    - [3.3 Pre-processing and Post-processing](#33-pre-processing-and-post-processing)
+    - [3.4 System Architecture](#34-system-architecture)
+    - [3.5 Calibration and Alignment](#35-calibration-and-alignment)
+4. [Psychoacoustics of DNEA](#psychoacoustics-of-dnea)
+    - [4.1 The Human Auditory System](#41-the-human-auditory-system)
+    - [4.2 Auditory Masking](#42-auditory-masking)
+    - [4.3 Binaural Hearing and Sound Localization](#43-binaural-hearing-and-sound-localization)
+    - [4.4 Perceptual Effects of DNEA](#44-perceptual-effects-of-dnea)
+5. [Applications and Use Cases](#applications-and-use-cases)
+    - [5.1 Museums and Exhibitions](#51-museums-and-exhibitions)
+    - [5.2 Retail and Advertising](#52-retail-and-advertising)
+    - [5.3 Office Environments and Workspaces](#53-office-environments-and-workspaces)
+    - [5.4 Public Spaces and Transportation](#54-public-spaces-and-transportation)
+    - [5.5 Assistive Technologies](#55-assistive-technologies)
+    - [5.6 Home Entertainment and Smart Homes](#56-home-entertainment-and-smart-homes)
+    - [5.7 Healthcare](#57-healthcare)
+    - [5.8 Gaming and Virtual Reality](#58-gaming-and-virtual-reality)
+6. [Challenges and Future Directions](#challenges-and-future-directions)
+    - [6.1 Technical Challenges](#61-technical-challenges)
+    - [6.2 Psychoacoustic and Cognitive Challenges](#62-psychoacoustic-and-cognitive-challenges)
+    - [6.3 Ethical and Societal Considerations](#63-ethical-and-societal-considerations)
+    - [6.4 Future Research Directions](#64-future-research-directions)
+7. [Appendix](#appendix)
+    - [7.1 Mathematical Derivations](#71-mathematical-derivations)
+    - [7.2 Glossary of Terms](#72-glossary-of-terms)
+    - [7.3 List of Acronyms](#73-list-of-acronyms)
+
+## Documentation
+
+The detailed documentation for DNEA is organized into several chapters. You can find each chapter in the `docs` directory:
+
+1. [Introduction: The Paradigm Shift in Audio Delivery](docs/Introduction/Chapter1.md)
+2. [Fundamentals of Acoustic Wave Manipulation](docs/Fundamentals/Chapter2.md)
+3. [DNEA Signal Processing and System Architecture](docs/SignalProcessing/Chapter3.md)
+4. [Psychoacoustics of DNEA](docs/Psychoacoustics/Chapter4.md)
+5. [Applications and Use Cases](docs/Applications/Chapter5.md)
+6. [Challenges and Future Directions](docs/Challenges/Chapter6.md)
+7. [Appendix](docs/Appendix/Chapter7.md)
 
 1. [Introduction: The Paradigm Shift in Audio Delivery](docs/Introduction/Chapter1.md)
 2. [Fundamentals of Acoustic Wave Manipulation](docs/Fundamentals/Chapter2.md)
