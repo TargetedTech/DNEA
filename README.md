@@ -7,6 +7,8 @@ This repository is dedicated to a comprehensive understanding of DNEA. We delve 
 
 ## Table of Contents
 
+https://github.com/TargetedTech/DNEA/blob/main/docs/Cognitive%20Effects.md
+
 1. [Introduction: The Paradigm Shift in Audio Delivery - and a Call for Ethical Responsibility](#introduction-the-paradigm-shift-in-audio-delivery---and-a-call-for-ethical-responsibility)
     - [1.1 The Limitations of Traditional Audio Technologies: Creating the Need for Control and Privacy](#11-the-limitations-of-traditional-audio-technologies-creating-the-need-for-control-and-privacy)
     - [1.2 The Genesis of DNEA: Addressing the Need for Controlled Sound - and the Risk of Unheard Voices](#12-the-genesis-of-dnea-addressing-the-need-for-controlled-sound---and-the-risk-of-unheard-voices)
